@@ -1,8 +1,8 @@
 Metadata-Version: 1.0
 Name: python-package
-Version: 2.1
-Summary: C to F grades converter
-Home-page: https://git.e-science.pl/lbroll225972/lab10_python_package
+Version: 3.0
+Summary: temp converter & fibonacci counter
+Home-page: https://github.com/pluserovsky/python_package
 Author: Lukasz Broll
 Author-email: 225972@student.pwr.edu.pl
 License: MIT
