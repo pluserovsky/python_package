@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='python-package',
-    version='1.0',
+    version='2.0',
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='C to F grades converter',

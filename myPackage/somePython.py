@@ -6,5 +6,6 @@ def fahrToKelv(temp):
     '''
 
     kelvin = 5./9. * (temp - 32.) + 273.15
+    answer =  temp +  "F to K is" + kelvin
 
-    return kelvin
+    return answer
